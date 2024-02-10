@@ -17,7 +17,7 @@ Navigate to `src/constants.py` and modify the variable to match your Steam insta
 STEAM_LOCATION = <Your steam installation path>
 ```
 
-Go back up to ./SteamGameDir/ and Use the package manager pip to install
+Go back up to `./SteamGameDir/` and Use the package manager pip to install
 
 ```bash
 pip install .
