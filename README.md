@@ -17,6 +17,8 @@ Use the package manager pip to install
 pip install .
 ```
 
+Navigate to `src/constants.py` and modify the variable to match your Steam install location.
+
 ## Usage
 
 Open a game's local Steam directory
