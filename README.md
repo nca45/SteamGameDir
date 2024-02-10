@@ -9,18 +9,18 @@ This cli searches through the partitions Steam uses to install games on and atte
 
 Clone the repo
 
-navigate to `./SteamGameDir/`
-
-Use the package manager pip to install
-
-```bash
-pip install .
-```
+Navigate to `./SteamGameDir/`
 
 Navigate to `src/constants.py` and modify the variable to match your Steam install location.
 
 ```python
 STEAM_LOCATION = <Your steam installation path>
+```
+
+Use the package manager pip to install
+
+```bash
+pip install .
 ```
 
 ## Usage
