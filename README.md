@@ -19,10 +19,6 @@ pip install .
 
 Navigate to `src/constants.py` and modify the variable to match your Steam install location.
 
-```python
-STEAM_LOCATION = <Your steam installation path>
-```
-
 ## Usage
 
 Open a game's local Steam directory
