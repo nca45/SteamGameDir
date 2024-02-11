@@ -31,7 +31,7 @@ SteamGameDir Cyberpunk2077
 
 ```
 
-Search for a game directory and tune the match 'fuzziness' to be more strict:
+Search for a game directory and tune the match 'fuzziness' to be more strict or more forgiving:
 ```bash
 SteamGameDir Baldur's Gate 3 --fuzz 100
 ```
