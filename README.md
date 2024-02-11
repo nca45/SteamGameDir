@@ -5,6 +5,8 @@ Hopefully this simple cli will help you out lmao
 
 This cli searches through the partitions Steam uses to install games on and attempts to open the game's local directory
 
+This was made exclusively for Windows btw, sorry linux users
+
 ## Installation
 
 Clone the repo
